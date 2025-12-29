@@ -112,7 +112,7 @@ Project Link: [https://github.com/TalhaAgro/Landing-Page](https://github.com/Tal
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Raahim Imran](https://www.merriam-webster.com/thesaurus/dummy)
+* Abdullah Shahid
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
